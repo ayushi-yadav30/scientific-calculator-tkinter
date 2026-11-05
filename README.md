@@ -32,7 +32,9 @@ This project was built as part of my learning journey in Python and GUI developm
 
 | Basic Mode | Scientific Mode |
 |:----------:|:----------------:|
-| _screenshot coming soon_ | _screenshot coming soon_ |
+
+<img width="337" height="566" alt="Screenshot 2026-11-06 013932" src="https://github.com/user-attachments/assets/a0e27cae-54d9-49bd-9752-bcfcc6d9b04f" />
+             | _screenshot coming soon_ |
 
 
 
